@@ -13,25 +13,25 @@
 ### - Languages and Tools...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/django.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/qt.svg" alt="html" style="vertical-align:top; margin:4px">   
-  <img src="svg/dev/languages/css3.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/bootstrap.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/js.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/nodejs.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:4px">   
+  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
 <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/java.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/leetcode.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/npm.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/bash.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/docker.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/visualstudio_code.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/vmware.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="svg/devices/mac.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="svg/devices/pc.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
+  <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:4px">
+  <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:4px">
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tpcmi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
